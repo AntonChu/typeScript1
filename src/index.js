@@ -1,1 +1,1 @@
-import './ts/movie';
+import './ts/movie.ts';
